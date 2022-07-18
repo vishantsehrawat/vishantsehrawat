@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vishantsehrawat
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 vishant.96.sehrawat@gmail.com
 
 <!---
 vishantsehrawat/vishantsehrawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
