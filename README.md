@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @vishantsehrawat
 - 👀 I’m interested in full stack development
+- DEVELOPED E-LEARNING PLATFORM
+- CSS HTML VANILLA JS 
 - 🌱 I’m currently learning react
 - 📫 vishant.96.sehrawat@gmail.com
 
