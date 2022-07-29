@@ -51,21 +51,21 @@ These words best describe my mindset! -->
 <br/>
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aashishkumar1&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=aashishkumar1&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vishantsehrawat&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=vishantsehrawat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 <br>
 <!-- theme=dark -->
 <p align="center">
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishkumar1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishantsehrawat&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=aashishkumar1&theme=dracula)
+![github graph](https://activity-graph.herokuapp.com/graph?username=vishantsehrawat&theme=dracula)
 <br>
 
 ## 🔍  Where to find me
