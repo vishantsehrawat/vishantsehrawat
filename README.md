@@ -1,12 +1,6 @@
-# Hello! 🥖
+# Have fun while working|
 
-My name is VISHANT SEHRAWAT. I am a web developer from Delhi, India. Worked with an E-learning startup for 6 months and coded whole frontend. I have designed the clone of some of the websites using CSS, HTML and Javascript. Curious to learn and apply my skills on a large scale.  🥐
-
-
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=dracula&animation=default&layout=default&font=default)
-<!-- &nbsp;
-These words best describe my mindset! -->
+Full Stack Web Developer with past experience of working with an E-learning startup and coded whole frontend for them.
 
 ## 🛠  Technologies and tools
 
@@ -19,7 +13,14 @@ These words best describe my mindset! -->
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![chatgpt](https://img.shields.io/badge/<CHAT GPT>-<MESSAGE>-<red>)
 
 
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
@@ -69,15 +70,22 @@ These words best describe my mindset! -->
 <br>
 
 ## 🔍  Where to find me
+<!-- LINKED IN LINK -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/)
 
+<!-- GITHUB LINK -->
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://github.com/vishantsehrawat)
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="Portfolio logo" title="Portfolio" height="25" />](https://vishantsehrawat.github.io/)
+
+<!-- PORTFOLIO LINK -->
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+(https://vishantsehrawat.github.io/)
 
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
+![](https://komarev.com/ghpvc/?username=vishantsehrawat)
 
 
 [tech_tools_anchor]: #bonjour--
