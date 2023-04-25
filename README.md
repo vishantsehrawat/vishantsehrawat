@@ -70,12 +70,12 @@ Full Stack Web Developer with past experience of working with an E-learning star
 <a href="https://www.linkedin.com/in/vishantsehrawat/" target="_blank">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/&nbsp) </a>
 
 <!-- GITHUB LINK -->
-<a href="https://github.com/vishantsehrawat" target="_blank"> </a>
+<a href="https://github.com/vishantsehrawat" target="_blank">&nbsp</a>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishantsehrawat&nbsp)
 
 
 <!-- PORTFOLIO LINK -->
-<a href="https://vishantsehrawat.github.io/" target="_blank"> </a>
+<a href="https://vishantsehrawat.github.io/" target="_blank">portfolio</a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/&nbsp)
 
 <!-- GMAIL LINK -->
