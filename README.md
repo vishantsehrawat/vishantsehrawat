@@ -20,7 +20,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![chatgpt](https://img.shields.io/static/v1?label=CHATGPT&message=ChatGpt&color=red)&nbsp;
+![chatgpt](https://img.shields.io/badge/?style=for-the-badge&logo=ChatGpt&logoColor=white)&nbsp;
 
 <a name="learning-next"></a>
 
