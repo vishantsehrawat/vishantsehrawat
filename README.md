@@ -20,7 +20,6 @@ Full Stack Web Developer with past experience of working with an E-learning star
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![chatgpt](https://img.shields.io/badge/?style=for-the-badge&logo=ChatGpt&logoColor=white)&nbsp;
 
 <a name="learning-next"></a>
 
@@ -64,14 +63,13 @@ Full Stack Web Developer with past experience of working with an E-learning star
 ## 🔍  Where to find me
 <!-- LINKED IN LINK -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/)&nbsp
 <!-- GITHUB LINK -->
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishantsehrawat)
-&nbsp;
+&nbsp
 
 <!-- PORTFOLIO LINK -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/)&nbsp
 
 
 <h4 align="center">Visitor's count 👀</h4>
