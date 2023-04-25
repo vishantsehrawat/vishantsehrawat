@@ -1,6 +1,6 @@
 # Have fun while working 
 
-Full Stack Web Developer with past experience of working with an E-learning startup and coded whole frontend for them.
+Full Stack Web Developer with past experience of working with an E-learning startup and coded whole frontend for them. Have insatiable appetite for learning and a knack for quickly grasping new skills. Visually-oriented learner who excel at observing and comprehending complex concept
 
 # Started my journey with 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&nbsp)
