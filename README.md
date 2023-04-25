@@ -66,6 +66,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 
 ## 🔍  Where to find me
 <!-- LINKED IN LINK -->
+[](https://www.linkedin.com/in/vishantsehrawat/)
 <a href="https://www.linkedin.com/in/vishantsehrawat/" target="_blank"> </a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/&nbsp)
 <!-- GITHUB LINK -->
@@ -79,7 +80,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 
 <!-- GMAIL LINK -->
 <a href="vishant.96.sehrawat@gmail.com" target="_blank"> </a>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&nbsp)(vishant.96.sehrawat@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&nbsp) vishant.96.sehrawat@gmail.com 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
