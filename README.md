@@ -91,7 +91,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 <p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 
-# Hobbies 
+# 🧰 Hobbies 
 <div style="display:inline ">
 <img src="https://media.tenor.com/XckgF-sWxVwAAAAM/%E0%A4%A0%E0%A5%80%E0%A4%95%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%AE-bunty.gif" alt="img" width="200" height="200">
 <img src="https://media.tenor.com/rY95EqesaaoAAAAM/bob-the-builder.gif" alt="img" width="200" height="200">
