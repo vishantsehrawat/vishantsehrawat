@@ -66,7 +66,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/)
 
 <!-- GITHUB LINK -->
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://github.com/vishantsehrawat)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/vishantsehrawat)
 &nbsp;
 
 <!-- PORTFOLIO LINK -->
