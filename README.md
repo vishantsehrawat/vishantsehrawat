@@ -79,7 +79,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/&nbsp)
 
 <!-- GMAIL LINK -->
-<a href="vishant.96.sehrawat@gmail.com" target="_blank"> </a>
+<a href="vishant.96.sehrawat@gmail.com" target="_blank">.</a>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&nbsp) vishant.96.sehrawat@gmail.com 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
