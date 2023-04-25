@@ -70,22 +70,23 @@ Full Stack Web Developer with past experience of working with an E-learning star
 
 
 <!-- LINKED IN LINK -->
-<a href="https://www.linkedin.com/in/vishantsehrawat/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="@luvlite" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/vishantsehrawat/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" height="30" width="40" /></a>
 
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/&nbsp) 
  -->
 <!-- GITHUB LINK -->
-<a href="https://github.com/vishantsehrawat" target="_blank"></a>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishantsehrawat&nbsp)
-
+<a href="https://github.com/vishantsehrawat" target="_blank">github</a>
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishantsehrawat&nbsp)
+ -->
 
 <!-- PORTFOLIO LINK -->
-<a href="https://vishantsehrawat.github.io/" target="_blank"></a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/&nbsp)
-
+<a href="https://vishantsehrawat.github.io/" target="_blank">portfolio</a>
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/&nbsp)
+ -->
 <!-- GMAIL LINK -->
-<a href="vishant.96.sehrawat@gmail.com" target="_blank"></a>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&nbsp) vishant.96.sehrawat@gmail.com 
+<a href="vishant.96.sehrawat@gmail.com" target="_blank">gmail</a>
+<!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&nbsp) vishant.96.sehrawat@gmail.com  -->
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
