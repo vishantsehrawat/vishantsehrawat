@@ -1,19 +1,85 @@
-<h3 align="center">FullStack Web Developer from Delhi, India. Worked with an E-learning startup for 6 months and coded whole frontend. Curious to learn and apply my skills on a large scale. 🥐</h3>
+# Hello! 🥖
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishantsehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vishantsehrawat" /> </p>
+My name is VISHANT SEHRAWAT. I am a web developer from Delhi, India. Worked with an E-learning startup for 6 months and coded whole frontend. I have designed the clone of some of the websites using CSS, HTML and Javascript. Curious to learn and apply my skills on a large scale.  🥐
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishantsehrawat" alt="vishantsehrawat" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default) -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=dracula&animation=default&layout=default&font=default)
+<!-- &nbsp;
+These words best describe my mindset! -->
+
+## 🛠  Technologies and tools
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+
+
+
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+
+
+<a name="learning-next"></a>
+
+## 📖  What I am currently learning / improving on
+
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+&nbsp;
+## 👾  What I am interested in learning at some point
+
+
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
+
+
+## 📊📈 My Statistics
+
+<br/>
 <p align="left">
-<a href="https://linkedin.com/in/vishantsehrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishantsehrawat" height="30" width="40" /></a>
+  <a href="">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vishantsehrawat&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=vishantsehrawat&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
 </p>
+<br>
+<!-- theme=dark -->
+<p align="center">
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishantsehrawat&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+![github graph](https://activity-graph.herokuapp.com/graph?username=vishantsehrawat&theme=dracula)
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishantsehrawat&show_icons=true&locale=en&layout=compact" alt="vishantsehrawat" /></p>
+## 🔍  Where to find me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishantsehrawat&show_icons=true&locale=en" alt="vishantsehrawat" /></p>
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://github.com/vishantsehrawat)
+&nbsp;
+[<img src="https://img.shields.io/static/v1?label=&message=portfolio&color=282C34&logo=portfolio&logoColor=DB7093" alt="Portfolio logo" title="Portfolio" height="25" />](https://vishantsehrawat.github.io/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishantsehrawat&" alt="vishantsehrawat" /></p>
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
