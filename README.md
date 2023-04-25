@@ -65,6 +65,10 @@ Full Stack Web Developer with past experience of working with an E-learning star
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
 ## 🔍  Where to find me
+
+
+<a href="https://www.linkedin.com/in/vishantsehrawat/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="@luvlite" height="30" width="40" /></a>
+
 <!-- LINKED IN LINK -->
 <a href="https://www.linkedin.com/in/vishantsehrawat" target="_blank">.</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishantsehrawat/&nbsp) 
