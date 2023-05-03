@@ -64,7 +64,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
   </p>
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishantsehrawat&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
 ## 🔍  Where to find me
 
