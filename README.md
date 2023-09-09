@@ -66,7 +66,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
   </p>
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishantsehrawat&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+[![vishant's github activity graph](https://ghchart.rshah.org/vishantsehrawat)]<br>
 
 ## 🔍  Where to find me
 
@@ -89,7 +89,7 @@ Full Stack Web Developer with past experience of working with an E-learning star
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishantsehrawat.github.io/&nbsp)
  -->
 <!-- GMAIL LINK -->
-<a href="vishant.96.sehrawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="30"/></a>
+<a href="mailto:vishant.96.sehrawat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="30"/></a>
 <!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&nbsp) vishant.96.sehrawat@gmail.com  -->
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{vishantsehrawat}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
