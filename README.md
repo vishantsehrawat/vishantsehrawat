@@ -34,6 +34,9 @@ Full Stack Web Developer with past experience of working with an E-learning star
 ## 📖  What I am currently learning / improving on
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+
 
 ## 👾  What I am interested in learning at some point
 
