@@ -71,9 +71,9 @@ Full Stack Web Developer with past experience of working with an E-learning star
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
-
+<!-- redudnant graph
 [![vishant's github activity graph](https://ghchart.rshah.org/vishantsehrawat)]<br>
-
+-->
 ## 🔍  Where to find me
 
 
